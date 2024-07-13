@@ -1,0 +1,2 @@
+# Javascript
+Daily hard
